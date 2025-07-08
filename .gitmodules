@@ -7,3 +7,6 @@
 [submodule "device"]
 	path = device
 	url = git@github.com:daniref/PEP-device.git
+[submodule "hw-designs"]
+	path = hw-designs
+	url = git@github.com:daniref/Hw-designs.git
