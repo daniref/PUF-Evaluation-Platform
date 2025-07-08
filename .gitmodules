@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:daniref/PEP-server.git
+[submodule "device"]
+	path = device
+	url = git@github.com:daniref/PEP-device.git
